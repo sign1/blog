@@ -1,5 +1,5 @@
-name: Paul' Blog
-description: 有了钱，在这个世界上可以做很多事，就是无法用钱来买青春
+name: 门门 Blog
+description: Less is more
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
@@ -9,10 +9,10 @@ logo: false
 comments: true
 paginate: 10
 baseurl: /blog
-domain_name: 'http://chztv.com'
-url: 'http://chztv.com/blog'
+domain_name: 'http://mensmen.me'
+url: 'http://mensmen.me/blog'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'http://chztv.github.io/'
-author:         'Paul chan'
+url:            'http://sign1.github.io/blog'
+author:         'mensmen'
