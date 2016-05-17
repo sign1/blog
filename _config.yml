@@ -10,9 +10,9 @@ comments: true
 paginate: 10
 baseurl: /blog
 domain_name: 'http://mensmen.me'
-url: 'http://mensmen.me/blog'
+url: 'http://mensmen.me/'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'http://sign1.github.io/blog'
+url:            'http://sign1.github.io/'
 author:         'mensmen'
