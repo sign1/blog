@@ -14,5 +14,5 @@ url: 'http://mensmen.me/blog'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'http://sign1.github.io/'
+url:            'http://sign1.github.io/blog'
 author:         'mensmen'
