@@ -1811,7 +1811,7 @@ body:not(.post-template) .post-title {
 
 /* navigation */
 .nav { position: fixed; height: 44px; line-height: 44px; width: 100%; top:0; left: 0; border-bottom: 1px solid #eee; background: #fff; padding: 0 20px; z-index: 1; font-size: 14px;font-family: Palatino, Optima, Georgia, serif;}
-.nav-item { padding:0 10px; display: inline-block; color: #000; -webkit-transform: translateZ(0); transform: translateZ(0); }
+.nav-item { padding:0 10px; display: inline-block; color: #000; -webkit-transform: translateZ(0); transform: translateZ(0); font-family: Palatino, Optima, Georgia, serif;}
 .nav .description { font-size: 10px;padding:0 10px; display: inline-block; color: #000; -webkit-transform: translateZ(0); transform: translateZ(0); }
 .nav .logo { color: #4a4a4a;font-weight: bold; }
 .nav .list { float: right;padding-right: 30px; }
