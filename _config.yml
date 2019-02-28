@@ -9,8 +9,8 @@ logo: false
 comments: true
 paginate: 10
 baseurl: /blog
-domain_name: 'http://mensmen.me'
-url: 'http://mensmen.me/blog'
+domain_name: 'http://yoooh.me'
+url: 'http://yoooh.me/blog'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
